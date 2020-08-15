@@ -1,2 +1,3 @@
 # siteetec-html5
- Site da etec paulistano template frontend
+ Site da Etec Paulistano com a template EduMaker. 
+ Atualmente está em construção, interrompido temporariamente.
